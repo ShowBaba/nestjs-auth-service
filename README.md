@@ -6,3 +6,7 @@ http://localhost:3000/v1/api-docs
 yarn run start:local_staging
 
 ## when creating new account the token is logged in console for test purposes
+
+
+
+For efficiency i use a redis db to store otp
